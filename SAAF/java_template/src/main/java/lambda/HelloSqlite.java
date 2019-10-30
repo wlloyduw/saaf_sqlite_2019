@@ -98,7 +98,7 @@ public class HelloSqlite implements RequestHandler<Request, HashMap<String, Obje
         }
         
         // *********************************************************************
-        // Implement Lambda Function Here
+        // Set hello message here
         // *********************************************************************
         String hello = "Hello " + request.getName();
 
